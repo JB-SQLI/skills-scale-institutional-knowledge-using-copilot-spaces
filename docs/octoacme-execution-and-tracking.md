@@ -1,7 +1,7 @@
 # OctoAcme — Execution & Tracking
 
 ## Purpose
-Guidance for managing day-to-day execution and tracking progress toward project milestones.
+Guidance for managing day-to-day execution and tracking progress toward project milestones. See also: [Roles & Personas](octoacme-roles-and-personas.md) for role responsibilities, [Risks & Communication](octoacme-risks-and-communication.md) for status and incident templates.
 
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
