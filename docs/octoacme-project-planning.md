@@ -1,7 +1,7 @@
 # OctoAcme — Project Planning
 
 ## Purpose
-Turn an approved initiative into an actionable plan and backlog for delivery.
+Turn an approved initiative into an actionable plan and backlog for delivery. See also: [Roles & Personas](octoacme-roles-and-personas.md) for team responsibility boundaries and the Role Handoff Checklist.
 
 ## Objectives
 - Break work into shippable increments

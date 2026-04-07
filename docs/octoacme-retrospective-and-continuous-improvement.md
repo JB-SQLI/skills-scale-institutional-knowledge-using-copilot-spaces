@@ -1,7 +1,7 @@
 # OctoAcme — Retrospective & Continuous Improvement
 
 ## Purpose
-Capture learnings and convert them into actionable improvements.
+Capture learnings and convert them into actionable improvements. See also: [Risks & Communication](octoacme-risks-and-communication.md) for post-incident retrospective guidance, and [Roles & Personas](octoacme-roles-and-personas.md) for role participation expectations.
 
 ## When
 After each sprint, release, or important milestone. Also after incidents.
